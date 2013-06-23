@@ -12,3 +12,7 @@ Run this command to install the template
 Create your project using this template!
 
   `$ motion create --template=gt <myappname>`
+
+### RubyGem
+* [Bubblewrap](https://github.com/rubymotion/BubbleWrap)
+* [Sugarcube](https://github.com/rubymotion/sugarcube) 
